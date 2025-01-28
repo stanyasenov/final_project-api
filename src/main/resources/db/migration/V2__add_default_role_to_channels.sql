@@ -1,0 +1,1 @@
+ALTER TABLE channels ADD COLUMN default_role VARCHAR(255) DEFAULT 'MEMBER';
